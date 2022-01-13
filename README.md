@@ -4,8 +4,8 @@ Simple project I have done for school.
 
 ## Free to use
 
-Feel free to use code below for you future projects.
+Feel free to use code for you future projects.
 
-### Installing
+### Installation
 
 Clone the repo, open the root index.html and you are done!
