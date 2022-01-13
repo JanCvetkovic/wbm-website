@@ -11,4 +11,6 @@ Feel free to use code for you future projects.
 
 ### Installation
 
-Clone the repo, open the root index.html and you are done!
+```
+git clone https://github.com/JanCvetkovic/wbm-website
+```
