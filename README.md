@@ -9,7 +9,7 @@ not work on Bootstrap 5.
 
 Feel free to use code for you future projects.
 
-### Installation
+### How to download
 
 ```
 git clone https://github.com/JanCvetkovic/wbm-website
